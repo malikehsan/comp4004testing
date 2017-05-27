@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/malik/Documents/workspace/CucumberConcept/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/malik/Documents/workspace/CucumberConcept/cucumber-html-0.2.3.jar"/>
+	<classpathentry kind="lib" path="/Users/malik/Documents/workspace/CucumberConcept/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/malik/Documents/workspace/CucumberConcept/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/malik/Documents/workspace/CucumberConcept/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="/Users/malik/Documents/workspace/CucumberConcept/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="/Users/malik/Documents/workspace/CucumberConcept/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/malik/Documents/workspace/CucumberConcept/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/Users/malik/Documents/workspace/CucumberConcept/selenium-server-standalone-3.0.1-2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
